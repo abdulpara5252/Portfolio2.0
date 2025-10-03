@@ -32,7 +32,7 @@ const Footer = () => {
 
                 <div className="">
                     <a
-                        href="https://github.com/Abdul/portfolio-2.0"
+                        href="https://github.com/abdulpara5252/Portfolio2.0"
                         target="_blank"
                         className="leading-none text-muted-foreground hover:underline hover:text-white"
                     >

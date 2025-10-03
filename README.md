@@ -1,8 +1,6 @@
 # 🚀 My Portfolio Website
 
 
-[Checkout the initial design here](https://www.figma.com/design/56hODoGFDzZfZduBPfQeBg/New-Portfolio?node-id=18-1550&t=73vRMGTW0gspTSND-1)
-
 ## 🚨 Forking this repo (please read!)
 
 Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
@@ -34,5 +32,5 @@ If you'd like to contribute or suggest improvements, feel free to open an issue 
 ## Credit
 _This readme is inspired from [Brittany Chiang's github](https://github.com/bchiang7/v4)_
 
-## 📄 License
-This project is open source and available under the [MIT License](https://github.com/Abdul/portfolio-2.0/blob/main/LICENSE).
+website Credit to [tajmirul.site]
+
